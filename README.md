@@ -30,7 +30,7 @@ Reads run in a read-only session and return up to 10,000 rows. Masked columns co
 
 ## Requirements
 
-- The Quorum desktop app, version 4.0.0 or later, on macOS, Windows or Linux. Quorum is a paid product; access is currently by request at https://www.quorumdb.ai/#access.
+- The Quorum desktop app, version 4.0.0 or later, on macOS, Windows or Linux. Quorum is a paid product with a free 14-day trial coming soon; request access at https://www.quorumdb.ai/#access to hear first.
 - An MCP client. Quorum sets up Claude Desktop, Claude Code, Cursor, VS Code, Windsurf and Codex for you, and gives you the configuration to copy for any other client.
 
 The server runs on the Node runtime inside Quorum, so nothing else needs installing.
@@ -130,4 +130,4 @@ Only connections shared with AI clients are reachable. Writes go through `propos
 
 This repository documents Quorum's MCP server and holds its MCP Registry entry (`server.json`). The server itself ships with the Quorum app. Questions: https://www.quorumdb.ai/#contact.
 
-Quorum is a product of Hundred Tons Inc. Product and company names are trademarks of their respective owners and are used only to describe what Quorum works with.
+Product and company names are trademarks of their respective owners and are used only to describe what Quorum works with.
